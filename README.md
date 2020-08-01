@@ -7,6 +7,12 @@ The commands are similar to bash shell but some of them are easier.
 The project is written with intellij Idea.
 The manual command is in the ide, You can use it to compile the software.
 
+ ```
+ First before even compile go to this address in the file "xuggle-xuggler-5.4.txt", then download the first 35MB
+ jar file and add to the project.
+ This is necessary, otherwise it gives error even may in compile time
+ ```
+
  ## What's new
  
  * Add cd command.
