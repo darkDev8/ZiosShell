@@ -1,4 +1,4 @@
-# ZiosShell
+# ZiosShell (Beta)
 Desktop Linux and UNIX  bash shell
 
 (Simple shell that works with linux shell)
