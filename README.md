@@ -27,8 +27,8 @@ The manual command is in the ide, You can use it to compile the software.
  * Add clear command.
  * More man pages.
  * New futures in ls command.
- * Database future
- * New methods
+ * Database future.
+ * New methods.
  
  ## Bug fixes
  
