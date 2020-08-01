@@ -38,7 +38,7 @@ The manual command is in the ide, You can use it to compile the software.
  * Increase performance command.
  * New line between hidden files and normal files(directories)
  * Info command showed previous directory information
- * Problem with "/" directory when using cd.. to get back
+ * Problem with " / " directory when using cd.. to get back
  * Negative numbers with clear and ping command.
  
  ## Kown bugs
@@ -103,6 +103,12 @@ Give access to operating system and user information.
   ## 15. ToolBox
  Brings external functionality to output shell.
  Some of the methods used in other way.
+ 
+ ## 16. DatabaseListener (interface)
+ The database repository
+ 
+ ## 17. Database
+ Tools to work with database.
 
 ## Pay attention
  ```
