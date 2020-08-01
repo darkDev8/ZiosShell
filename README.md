@@ -21,12 +21,25 @@ The manual command is in the ide, You can use it to compile the software.
  * Add rn command.
  * Add get command.
  * Shows build number(starting)
+ * Add tan command.
+ * Add taf command.
+ * Add ping command.
+ * Add mkdir command.
+ * Add clear command.
+ * More man pages.
+ * New futures in ls command.
+ * Database future
+ * New methods
  
  ## Bug fixes
  
  * Fixed change directory command.
  * Fixed cat command printing other directory file.
  * Increase performance command.
+ * New line between hidden files and normal files(directories)
+ * Info command showed previous directory information
+ * Problem with "/" directory when using cd.. to get back
+ * Negative numbers with clear and ping command.
  
  ## Kown bugs
  
