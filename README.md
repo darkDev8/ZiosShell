@@ -17,7 +17,6 @@ The manual command is in the ide, You can use it to compile the software.
  
  * Add cd command.
  * Add cd.. command.
- * Add new man pages.
  * Add rn command.
  * Add get command.
  * Shows build number(starting)
