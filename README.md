@@ -35,7 +35,7 @@ The manual command is in the ide, You can use it to compile the software.
  
  * Fixed change directory command.
  * Fixed cat command printing other directory file.
- * Increase performance command.
+ * Increase performance speed.
  * New line between hidden files and normal files(directories)
  * Info command showed previous directory information
  * Problem with " / " directory when using cd.. to get back
