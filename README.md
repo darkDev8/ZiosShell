@@ -19,7 +19,7 @@ The manual command is in the ide, You can use it to compile the software.
  * Add cd.. command.
  * Add rn command.
  * Add get command.
- * Shows build number(starting)
+ * Shows build number.
  * Add tan command.
  * Add taf command.
  * Add ping command.
